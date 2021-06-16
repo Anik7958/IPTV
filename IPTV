@@ -1217,10 +1217,10 @@ https://assetscdn-wchat.freshchat.com/static/assets/audio/notif.mp3
 https://lh3.googleusercontent.com/proxy/2RQfxxcBHx4GzseduiRrNXEasjHLCKAkByZSPzqoos6Rd7kD4uGWHlSTV4QpsOeC3VZXgEKo_DYvqIaM85bXfps9xQAcnyMv8Wn-gySiaQaPrK_WCNnrLacqiTP8MxVQJdt5qCaJfSFaLlJmDRyfHrx11rEhXZTBGwMz61Q4lyIS35kmvOetiGnR8Zbg3wJhdwpf=s0
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/transpng/hTbxbox/" group-title="Anik", Star Jalsha
 http://212.102.60.40:2200/R-EX/STAR_JALSA_HD_-in/tracks-v1a1/mono.m3u8?token=RED_vqojroBEF5bGJvXYRDdV3w%3D%3D%2C1619774634.1743800549
-#EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
-
-#EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
-
+#EXTINF:-1 tvg-logo="" group-title="Anik", Star Jalsha
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Anik", Star jalsha
+http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
 
 #EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
@@ -1860,6 +1860,240 @@ http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/ENGLISH_DUBBED_MOVIE/2
 #EXTINF:-1 tvg-logo="ext" group-title="*Cinema Box",
 
 #EXTINF:-1 tvg-logo="ext" group-title="*Cinema Box",
+
+
+
+#Sports START,
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
+http://103.205.133.21/hls/ten1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
+http://103.205.133.21/hls/ten2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",154.Sony Ten 3
+http://103.205.133.21/hls/ten3.m3u8
+#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
+http://103.205.133.21/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",154.Sony Six HD
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="Sports",155.Star Sports 1
+http://103.205.133.21/hls/chss1.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/f4/42/09/f4420978ab1464b77de927ca4fa6527f.png" group-title="Sports",156.Star Sports 2
+http://103.205.133.21/hls/chss2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",156.Star Sports 3
+http://103.205.133.21/hls/chss3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="Sports",156.Star Sports Select 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="Sports",156.Star Sports Select 2
+http://10.16.100.207:8082/sports/starsports_select2.m3u8
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/9eGTzS3.jpg" group-title="Sports", Willow Cricket
+https://m3u-editor.com/serve/d4c051e0-c875-11eb-bdd9-c5d54a9cbb08/312612267
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1Tn5PY7.png" group-title="Sports", Sony SIX
+https://m3u-editor.com/serve/d4c051e0-c875-11eb-bdd9-c5d54a9cbb08/312612268
+
+
+
+
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",165.Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports",166.Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",170.DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9q8gFsq.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/U6XDpXY.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/8VqomZ5.png",Abu Dhabi Sports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 1 PREMIUM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20075
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2 PREMIUM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38200
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3 PREMIUM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38201
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3 PREMIUM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7342
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3 PREMIUM
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7349
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2 ENGLISH
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38203
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 3 ENGLISH
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24724
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3 ENGLISH
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7351
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 1 DIRECT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20070
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20066
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7343
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1313
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1320
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38192
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20067
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7341
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1314
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1321
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38193
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20068
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1315
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1322
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38194
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sports 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20069
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1316
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1323
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38195
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38198
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7340
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7344
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38196
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38199
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5 SD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1317
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BeIN Sports 5 SD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1324
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sport 5 MAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20073
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sport 5 MAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/24723
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5 MAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7350
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 5 MAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38202
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sport 6
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20071
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 6
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7345
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 6
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38197
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 6 HD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1318
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sport 7
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20072
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 7
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7346
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 7 HD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/1319
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 8 HD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7347
+
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN Sport 9 FHD
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/20074
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beINSPORTS.png" group-title="Sports",AR: BEIN SPORTS 9 MAX
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/7348
+
+
+
+
+#EXTINF:-1 group-title="Sports",AR: AD.Sport1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38299
+#EXTINF:-1 group-title="Sports",AR: AD.Sport2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38300
+#EXTINF:-1 group-title="Sports",AR: AD.Sport3
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38301
+#EXTINF:-1 group-title="Sports",AR: AD.Sport4
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38302
+#EXTINF:-1 group-title="Sports",AR: AD.Sport5
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38303
+
+
+#EXTINF:-1 group-title="Sports",AR: YAS.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38304
+
+#EXTINF:-1 group-title="Sports",AR: Dubai1.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38305
+#EXTINF:-1 group-title="Sports",AR: Dubai2.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38306
+#EXTINF:-1 group-title="Sports",AR: Dubai3.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38307
+
+#EXTINF:-1 group-title="Sports",AR: Dubai.Racing
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38308
+#EXTINF:-1 group-title="Sports",AR: Dubai.Racing2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38309
+
+#EXTINF:-1 group-title="Sports",AR: Ksa.Sport 1
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38310
+#EXTINF:-1 group-title="Sports",AR: Ksa.Sport 2
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38311
+
+#EXTINF:-1 group-title="Sports",AR: Alkass1.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38312
+#EXTINF:-1 group-title="Sports",AR: Alkass2.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38313
+#EXTINF:-1 group-title="Sports",AR: Alkass4.Sport
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38314
+#EXTINF:-1 group-title="Sports",AR: Alkass5-SPORT
+http://iptv.nonland.net:8080/KING_IPTV_xui/QtChUjfXPF/38315
+
+
+
+#Sports END,
+
 
 
 
