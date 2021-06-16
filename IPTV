@@ -1215,8 +1215,8 @@ https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 https://assetscdn-wchat.freshchat.com/static/assets/audio/notif.mp3
 #EXTINF:-1 tvg-logo="" group-title="Anik", Uro and copa
 https://lh3.googleusercontent.com/proxy/2RQfxxcBHx4GzseduiRrNXEasjHLCKAkByZSPzqoos6Rd7kD4uGWHlSTV4QpsOeC3VZXgEKo_DYvqIaM85bXfps9xQAcnyMv8Wn-gySiaQaPrK_WCNnrLacqiTP8MxVQJdt5qCaJfSFaLlJmDRyfHrx11rEhXZTBGwMz61Q4lyIS35kmvOetiGnR8Zbg3wJhdwpf=s0
-#EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
-
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/transpng/hTbxbox/" group-title="Anik", Star Jalsha
+http://212.102.60.40:2200/R-EX/STAR_JALSA_HD_-in/tracks-v1a1/mono.m3u8?token=RED_vqojroBEF5bGJvXYRDdV3w%3D%3D%2C1619774634.1743800549
 #EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
 
 #EXTINF:-1 tvg-logo="" group-title="Anik", Discovery turbo
