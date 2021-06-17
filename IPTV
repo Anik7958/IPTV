@@ -1178,6 +1178,11 @@ https://rhridoy136.shortcm.li/shomoytv.m3u8
 https://rhridoy136.shortcm.li/titashsports.m3u8
 
 
+
+****ANIK******
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Anik", Ekattor tv
 http://203.80.191.234:8089/load/btvworld/chunks.m3u8?nimblesessionid=253261
 
@@ -1235,8 +1240,15 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Anik", Star Jalsha SD
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppJO2Ep.png" group-title="Anik", Star Jalsha HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Anik" ,Star Jalsha HD
+http://103.81.104.118/hls/stream31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Anik",Star Jalsha
+http://103.205.133.19/hls/chsj.m3u8
 
 
 
